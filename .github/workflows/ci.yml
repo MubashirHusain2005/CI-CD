@@ -1,6 +1,6 @@
 name: CoderCo CICD workflow
 
-on:[push]
+on: [push]
 
 jobs:
   build:
